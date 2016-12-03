@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"we",
+				"web_app"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 336.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 490.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mcespedes/Developer/dev/web-gymmie",
+		"/Users/mcespedes/Developer/dev/web-gymmie/src",
+		"/Users/mcespedes/Developer/dev/web-gymmie/src/app"
+	],
+	"file_history":
+	[
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/app.routes.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/index.html",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/app.module.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/api/api.component.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/api/api.component.html",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/pages/components/api.component.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/app.component.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/index.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/src/app/pages/components/pages.component.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/golocal.sublime-project",
+		"/Users/mcespedes/Developer/dev/web-golocal/web_app/golocal-app.sublime-project",
+		"/Users/mcespedes/Developer/dev/web-golocal/golocal.sublime-workspace",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/assets/css/style.css",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/assets/css/prettyPhoto.css",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/assets/css/smoothness/jquery-ui-1.8.17.custom.css",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/about.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/benefits.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/brands.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/consulting.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/events.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/home.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/marketing.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/merchandise.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/mission.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/pictures.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/promotions.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/templates/services.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/angular-cli.json",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/index.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/assets/css/forms.css",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/app.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/videos.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/services.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/registration-staff.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/promotions.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/pictures.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/mission.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/merchandise.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/marketing.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/events.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/consulting.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/about.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/advertising.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/benefits.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/brands.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/golocal-app.sublime-project",
+		"/Users/mcespedes/Developer/dev/web-golocal/web/app/app.module.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/main.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web/app/app.routes.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/app.module.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app_old/main.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/index.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/app.component.html",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/main.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/src/app/pages/components/home.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal/src/app/app.component.ts",
+		"/Users/mcespedes/Developer/dev/golocal-app/dist/favicon.ico",
+		"/Users/mcespedes/Developer/dev/web-golocal/web/app/app.component.css",
+		"/Users/mcespedes/Developer/dev/web-golocal/web/app/pages/components/registration-staff.component.ts",
+		"/Users/mcespedes/Developer/dev/web-golocal/web/app/pages/templates/registration-staff.component.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../images/",
+			"../images",
+			"app/images/",
+			"app/images",
+			"app/images/2",
+			"incorporated",
+			"nativeLanguage",
+			"lastName",
+			"firstName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gymmie.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/dev/devbrostre/devbros.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,6 +1,7 @@
 import { Task } from '../models/task.model';
 
-export class TasksService {
+export class TaskService {
+
   private taskData: Task[] = [
     {name: 'bench press', reps: 3},
     {name: 'sit ups', reps: 10},
@@ -9,6 +10,7 @@ export class TasksService {
   ];
 
   private taskList: Task[] = [];
+  private currenTask: Task;
 
   getTasksFromDB() {
     return this.taskData;
